@@ -53,6 +53,24 @@ x = "5"
 print(type(x)) #str
 x = int(x)
 print(type(x)) #int
+y = 4
+print(type(y))
+
+y = y/2
+
+print(type(y))
+
+print(y)
+
+nazwisko = "kowalski"
+print(nazwisko[0]) #K
+print(nazwisko[0:3]) #KOW
+print(nazwisko[-2]) #k
+print(nazwisko[-2:]) #ki
+print(nazwisko[:-2]) #Kowalsk
+print(nazwisko[:-2:2]) #Kwl
+
+
 
 
 
