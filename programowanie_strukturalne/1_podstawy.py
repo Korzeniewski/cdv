@@ -74,8 +74,4 @@ print(nazwisko[:-2:2]) #Kwl
 
 
 
-
-
-
-
 print()

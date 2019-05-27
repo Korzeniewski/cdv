@@ -43,3 +43,15 @@ def car():
 def wyswietl(x):
     print(x)
 car()
+
+def div(x,y):
+    try:
+        result = x/y
+        print(f'\n{x}/{y} = {result}')
+    except:
+        print('error, you want to devide by 0')
+
+
+
+
+div(15,3)
