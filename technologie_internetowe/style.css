@@ -1,0 +1,21 @@
+body{
+    background-color:aliceblue;
+}
+
+.miasta{
+    color: blue;
+}
+.panstwa{
+    color: red;
+}
+table,tr,td,th{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 8px;
+    margin: 10px;
+}
+ th{
+     background-color: black;
+     color:white;
+ }
